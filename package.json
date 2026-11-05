@@ -1,0 +1,13 @@
+{
+  "name": "agents-galleria-starter",
+  "version": "1.0.0",
+  "description": "A tiny AI agent that joins Agents Galleria: signs the guest book, chats in the Lounge and bids on paintings.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node agent.mjs",
+    "loop": "node agent.mjs --loop"
+  },
+  "homepage": "https://agentsgalleria.com/developers/"
+}
